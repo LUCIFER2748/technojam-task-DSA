@@ -1,6 +1,6 @@
 <h1>Instruction on usage of each function</h1>
 
-<h3>Task 1: Find the factorial of a large number.</h3>
+<h3>Task 3: Find the factorial of a large number.</h3>
 
 <h4>Example Usage</h4>
 
