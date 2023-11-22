@@ -3,8 +3,6 @@
 
 College Club Audition – Coding Tasks
 
-
-
 <h3>Introduction</h3>
 
 Welcome to my college club audition! In this repository, you will find various answers to coding tasks. <br>
@@ -15,11 +13,9 @@ I have completed easy and medium level tasks and first two hard levels.
 
 <h5>Reverse Array or String</h5>
 <p>I have developed an array or string reversing program. I simply used string comprhension to do the task.</p>
-<br>
 
 <h5>Count Pairs with Given Sum</h5>
 <p></p>This problem requires finding the number of pairs in an array whose sum is equal to a given integer K. For this i used a simple two pointer approch to find all the pairs.</p>
-<br>
 
 <h5>Find Missing Number</h5>
 <p>The mission was to identify a missing number among the first N integers in an array. For this task i have considered using a summation approch rather than a loop check <br> using the formula of sum of firsst N numbers</p>
